@@ -9,7 +9,7 @@ public class Metodo_IndexOf {
     
         String cadena="Hoy es un dia lluvioso";
         
-        int pos=cadena.indexOf("dia");
+        int pos=cadena.indexOf("d");
         
         System.out.println(pos);
     
